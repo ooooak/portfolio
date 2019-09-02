@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans|Open+Sans:400,600&display=swap');
+body {
+  font-family: 'Fira Sans',sans-serif;
+  line-height: 1.8em;
+  color: #505050;
+}
+.container-fluid {
+  max-width: 860px;
+}
+.welcome{
+  position: relative;
+  z-index: 2;
+  display: block;
+  width: 100%;
+  max-width: 1040px;
+  padding-top: 150px;
+  padding-bottom: 75px;
+}
+.welcome .heading{
+  font-size: 46px;
+  font-weight: 600;
+  text-shadow: none;
+  line-height: 1.8em;
+  font-family: 'Open Sans',sans-serif;
+}
+.welcome .description{
+  line-height: 2.2em;
+  font-family: 'Fira Sans',sans-serif;
+  max-width: 650px;
+}
+a,
+.blue{
+  color: #4353ff;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #0000aa;
+  text-decoration: underline;
+}
+header{
+  padding: 20px;
+}
+
+/* @navigation */
+#navigation a{
+  padding: 12px;
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+}
+.content {
+  margin-top:25px;
+}
+.page-title{
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 1em;
+  font-family: 'Open Sans',sans-serif;
+  background-color: #f8f9ff;
+  padding: 12px 0px;
+}
+.experiences{
+  position: relative;
+}
+/* @experiences */
+.experiences .experience{
+  border-left: 2px solid #4353ff;
+  padding-left: 25px;
+  padding-bottom: 25px;
+}
+
+.experiences .experience::before {
+  width: 10px;
+  height: 10px;
+  border: 2px solid #4353ff;
+  position: absolute;
+  content: "";
+  border-radius: 50%;
+  background-color: #fff;
+  left: -5px;
+}
+.experiences .experience .title {
+  font-weight: bold;
+  font-size: 16px;  
+  padding-bottom: 5px;  
+  line-height:1.2em;
+}
+.experiences .experience .description,
+.experiences .experience .stack {
+  font-size: 16px;
+  font-family: 'Open Sans',sans-serif;
+  line-height: 1.5em;
+  padding-top: 8px;
+}
+
+
+.experiences .experience .date {
+  font-size: 12px;
+  font-weight: normal;
+  color: #9b9494;
+}
+
+.experiences .experience .role{
+  font-weight: norma
+}
+
+.contact-list {
+  font-size: 16px;
+}
+
+.contact-list dt {
+  float: left;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+
+/* @footer */
+
+footer{
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  font-size: 14px;
+}

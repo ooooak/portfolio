@@ -17,8 +17,10 @@ const IndexPage = () => (
       <div className="social-media">
         <a href="mailto:akshay.deep0@gmail.com?Subject=Hi Akshay!!" target="_blank">
           Email
-        </a> /        
-        <a title="Twitter" href="https://twitter.com/pablostanley">Twitter</a> /
+        </a>      
+        <span> / </span>
+        <a title="Twitter" href="https://twitter.com/ooooak" target="_blank">Twitter</a>
+        <span> / </span>
         <a title="Sketch Together YouTubbe" href="https://www.youtube.com/channel/UCEUU9uh4GPA1KDweZ2mC8-w" target="_blank">YouTube</a> 
       </div>
     </div>     

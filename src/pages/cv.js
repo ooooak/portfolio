@@ -18,7 +18,10 @@ const CV = () => (
       <div className="experience">
         <div className="title">
           <span className="role blue">Senior Full Stack Engineer</span>
-          <span className="company blue"> - Bulbtech.io</span>
+          <span className="company blue"> 
+            &nbsp; - &nbsp;
+            <a className="underline" href="http://bulbtech.io" target="_blank">Bulbtech</a>
+          </span>
           <br/>
           <span className="date">Nov 2017 – Jan 2019</span>
         </div>    
@@ -35,15 +38,19 @@ const CV = () => (
       <div className="experience">
       <div className="title">
           <span className="role blue">Senior Full Stack Engineer</span>
-          <span className="company blue"> - Fixdrepair</span>
+          <span className="company blue"> 
+            &nbsp; - &nbsp;
+            <a className="underline" href="https://www.fixdrepair.com/" target="_blank">Fixdrepair</a>
+          </span>
+          
           <br/>
           <span className="date">Apr 2015 – Nov 2017</span>
         </div>
         
         <div className="description">
-          <p>Worked Primarily on Designing/Developing REST API</p>
+          <p>Worked Primarily on Designing/Developing REST API using PHP/Laravel</p>
           <p>Implemented payment gateway using Stripe and Braintree</p>
-          <p>Develop SPA CRM using Angularjs</p>
+          <p>Develop Single Page CRM using Angularjs</p>
         </div>
         <div className="stack">
           Technologies used: PHP, Laravel, WordPress, Angularjs, MySQL
@@ -59,9 +66,11 @@ const CV = () => (
         </div>
         <div className="description">
           <p>Worked with multiple clients Including </p>
-          <p><a href="http://educonnected.com/">Educonnected</a></p>
-          <p><a href="http://www.emrpcc.org.au/">Emrpcc</a></p>
-          <p><a href="https://flairinteractive.com">Flairinteractive</a></p>
+          <a href="https://www.immigroup.com/tools-and-widgets">Immigroup</a>, &nbsp;
+          <a href="https://industrym.com/">Industrym</a>, &nbsp;
+          <a href="https://flairinteractive.com">Flairinteractive</a>, &nbsp;
+          <a href="https://numerologist.com">Numerologist</a>, &nbsp;
+          <a href="https://neue.co/">Neue.co</a>
         </div>
         <div className="stack">
           Technologies Used: PHP, Laravel, CodeIgniter, Yii, Wordpress, JS, jQuery

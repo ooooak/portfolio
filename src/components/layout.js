@@ -53,7 +53,8 @@ const Layout = ({title, children}) => {
         <footer className="container-fluid">
           © {new Date().getFullYear()}, Built with {` `}
           <a href="https://www.gatsbyjs.org" target="_blank">Gatsby.</a>
-          &nbsp; The code is open source and available at <a href="https://github.com/ooooak/portfolio" target="_blank">Github</a>.
+          &nbsp; The code is open source and available at 
+          <a href="https://github.com/ooooak/ooooak.github.io" target="_blank">Github</a>.
         </footer>
     </div>
   )

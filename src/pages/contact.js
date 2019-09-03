@@ -11,7 +11,7 @@ const Contact = () => (
         <dt>Skype:  &nbsp;&nbsp; </dt>
         <dd><a href="skype:akshay_deep0">akshay_deep0</a></dd>
         <dt>Twitter: &nbsp;&nbsp; </dt>
-        <dd><a href="https://twitter.com/ooooak">@ooooak</a></dd>
+        <dd><a href="https://twitter.com/ooooak" target="_blank">@ooooak</a></dd>
       </dl>      
   </Layout>
 )

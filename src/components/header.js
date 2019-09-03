@@ -8,10 +8,10 @@ const Header = () => (
       <div className="col-xs-12 end-xs">
         <nav id="navigation">
           <Link to="/">Home</Link>
-          <Link to="/about">About</Link>
+          {/* <Link to="/about">About</Link> */}
           <Link to="/blog">Blog</Link>
           <Link to="/cv">CV</Link>
-          <Link to="/portfolio">Portfolio</Link>
+          {/* <Link to="/portfolio">Portfolio</Link> */}
           <Link to="/contact">Contact</Link>
         </nav>
       </div>

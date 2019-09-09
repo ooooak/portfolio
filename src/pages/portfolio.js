@@ -1,15 +1,15 @@
 import React from "react"
 // import { graphql } from "gatsby"
 
-import bulb from  "../images/sites/bulb.jpg"
-import fixd from  "../images/sites/fixd.jpg"
-import neue from  "../images/sites/neue.co.jpg"
-import immi from  "../images/sites/immi.jpg"
-import industrym from  "../images/sites/industrym.jpg"
-import flair from  "../images/sites/flairinteractive.jpg"
-import cambridge from  "../images/sites/cambridgelakescharterschool.jpg"
-import charsteak from  "../images/sites/charsteakhous.jpg"
-import j21ny from  "../images/sites/j21ny.jpg"
+// import bulb from  "../images/sites/bulb.jpg"
+// import fixd from  "../images/sites/fixd.jpg"
+// import neue from  "../images/sites/neue.co.jpg"
+// import immi from  "../images/sites/immi.jpg"
+// import industrym from  "../images/sites/industrym.jpg"
+// import flair from  "../images/sites/flairinteractive.jpg"
+// import cambridge from  "../images/sites/cambridgelakescharterschool.jpg"
+// import charsteak from  "../images/sites/charsteakhous.jpg"
+// import j21ny from  "../images/sites/j21ny.jpg"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -20,7 +20,7 @@ const SecondPage = () => (
     <div className="portfolio">
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={bulb} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/8ymblSZ.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -33,7 +33,7 @@ const SecondPage = () => (
       </div>
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={fixd} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/xaRpQT4.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -47,7 +47,7 @@ const SecondPage = () => (
 
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={neue} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/YS5oi2g.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -64,7 +64,7 @@ const SecondPage = () => (
 
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={charsteak} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/frn7PBk.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -78,7 +78,7 @@ const SecondPage = () => (
 
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={industrym} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/vQfBE4c.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -93,7 +93,7 @@ const SecondPage = () => (
       
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={flair} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/4VSYv5b.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -109,7 +109,7 @@ const SecondPage = () => (
 
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={cambridge} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/w332qoz.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -125,7 +125,7 @@ const SecondPage = () => (
 
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={j21ny} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/iiw0gac.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">
@@ -139,7 +139,7 @@ const SecondPage = () => (
 
       <div className="row">
         <div className="col-md-6 thumb">
-          <img src={immi} alt="alt" className="img-responsive"/>
+          <img src="https://i.imgur.com/T4Il4qm.jpg" alt="alt" className="img-responsive"/>
         </div>
         <div className="col-md-6">
           <div className="pj-description">

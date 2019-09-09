@@ -13,7 +13,7 @@ const IndexPage = () => (
       </div>
 
       <div className="description">
-        <p>I'm a Self taught Full Stack Web Developer from india with 7+ years of experince. I have a strong background in HTML/CSS, Node, Ract, Express, PHP, Laravel and Wordpress. Currently learning Clojure, Elixir/OTP and Distributed System.</p>
+        <p>I'm a Self-taught Full Stack Web Developer from India with 7+ years of experience. I have a strong background in HTML/CSS, Node, React, Express, PHP, Laravel, and Wordpress. Currently learning Clojure, Elixir/OTP, and Distributed System.</p>
       </div>
       <div className="social-media">
         <a href="mailto:akshay.deep0@gmail.com?Subject=Hi Akshay!!" target="_blank"> Email </a>

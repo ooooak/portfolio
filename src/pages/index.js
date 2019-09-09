@@ -6,18 +6,17 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-
+      
     <div className="welcome">
       <div className="heading">
       Hi, I'm <span className="blue">Akshaydeep Giri</span>
       </div>
+
       <div className="description">
-        <p>Also known as <a href="https://twitter.com/ooooak" target="_blank">@ooooak</a>. I'm a Self taught Full Stack Web Developer from india.</p>
+        <p>I'm a Self taught Full Stack Web Developer from india with 7+ years of experince. I have a strong background in HTML/CSS, Node, Ract, Express, PHP, Laravel and Wordpress. Currently learning Clojure, Elixir/OTP and Distributed System.</p>
       </div>
       <div className="social-media">
-        <a href="mailto:akshay.deep0@gmail.com?Subject=Hi Akshay!!" target="_blank">
-          Email
-        </a>      
+        <a href="mailto:akshay.deep0@gmail.com?Subject=Hi Akshay!!" target="_blank"> Email </a>
         <span> / </span>
         <a title="Twitter" href="https://twitter.com/ooooak" target="_blank">Twitter</a>
         <span> / </span>

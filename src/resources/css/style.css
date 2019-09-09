@@ -136,3 +136,34 @@ footer{
     font-size: 24px;
   }
 }
+
+
+.img-responsive{ 
+  width: 100%;
+  height: auto;  
+}
+
+/* @portfolio */
+.portfolio .thumb img{
+  border: 1px solid #e4eeff;
+  border-radius: 4px;
+}
+.portfolio .row{
+  padding-bottom: 1rem;
+}
+
+
+.pj-description{
+  padding-bottom: 42px;
+}
+
+.pj-description h4{
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 14px;
+  padding-bottom: 6px;
+}
+
+.pj-description p{
+  line-height: 1.5em;
+}

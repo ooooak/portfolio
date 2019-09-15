@@ -12,11 +12,11 @@ const CV = () => (
           <span className="role blue">Self Employed</span>
           <br/>
           <span className="date">Jan 2019 - Present</span>
-          <div className="description">
+        </div>
+        <div className="description">
             <p>Working on a rest API using Clojure</p>
             <p>Crawling Web using Go, Gorm, goQuery</p>
           </div>
-        </div>
       </div>
 
       <div className="experience">

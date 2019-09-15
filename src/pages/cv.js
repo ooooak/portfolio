@@ -11,7 +11,11 @@ const CV = () => (
         <div className="title">
           <span className="role blue">Self Employed</span>
           <br/>
-          <span className="date">Nov 2017 – Jan 2019</span>
+          <span className="date">Jan 2019 - Present</span>
+          <div className="description">
+            <p>Working on a rest API using Clojure</p>
+            <p>Crawling Web using Go, Gorm, goQuery</p>
+          </div>
         </div>
       </div>
 

@@ -14,14 +14,16 @@ const IndexPage = () => (
 
       <div className="description">
         <p>I'm a Self-taught Full Stack Web Developer from India with 7+ years of experience. I have a strong background in HTML/CSS, Node, React, Express, PHP, Laravel, and Wordpress. Currently learning Clojure, Elixir/OTP, and Distributed System.</p>
+        <br/>
       </div>
       <div className="social-media">
         <a href="mailto:akshay.deep0@gmail.com?Subject=Hi Akshay!!" target="_blank"> Email </a>
         <span> / </span>
         <a title="Twitter" href="https://twitter.com/ooooak" target="_blank">Twitter</a>
         <span> / </span>
-        <a title="Sketch Together YouTubbe" href="https://www.youtube.com/channel/UCEUU9uh4GPA1KDweZ2mC8-w" target="_blank">YouTube</a> 
-      </div>
+        <a title="Twitter" href="skype:akshay_deep0" target="_blank">Skype</a>
+      </div>     
+    
     </div>     
   </Layout>
 )

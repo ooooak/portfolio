@@ -13,7 +13,7 @@ const IndexPage = () => (
       </div>
 
       <div className="description">
-        <p>I'm a Self-taught Full Stack Web Developer from India with 7+ years of experience. I have a strong background in Node, React, Express, PHP and Laravel. Interested in Branding, Distributed System and Ux.</p>
+        <p>I'm a Full Stack Web Developer from Punjab, India with 7+ years of experience. I have a strong background in PHP/Laravel/Wordpress, Node, React, Express. Interested FP, Clojure, Elixir/OTP and Distributed System.</p>
         <br/>
       </div>
       <div className="social-media">
@@ -22,8 +22,7 @@ const IndexPage = () => (
         <a title="Twitter" href="https://twitter.com/ooooak" target="_blank">Twitter</a>
         <span> / </span>
         <a title="Twitter" href="skype:akshay_deep0" target="_blank">Skype</a>
-      </div>     
-    
+      </div>    
     </div>     
   </Layout>
 )

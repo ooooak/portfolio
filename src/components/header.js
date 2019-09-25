@@ -4,7 +4,7 @@ import React from "react"
 
 const Header = () => (
   <header className="container-fluid">
-    <div className="row ">
+    <div className="row">
       <div className="col-xs-12 end-xs">
         <nav id="navigation">
           <Link to="/">Home</Link>

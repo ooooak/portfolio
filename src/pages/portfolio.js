@@ -49,7 +49,10 @@ const SecondPage = () => (
             <h4>
               <a href="https://www.immigroup.com/tools-and-widgets" target="_blank">Immigroup</a>
             </h4>
-            <p>Worked on multiple Tools that are listed</p>
+            <p>Travel Vaccine Directory</p>
+            <p>Worked on tools section including:</p>
+            <p>Find an Immigration Professional for Canada</p>
+            <p>Canada/US Border Crossing Directory </p>
             <p>Stack: PHP, CodeIgniter, knockoutjs, jQuery</p>
           </div>
         </div>

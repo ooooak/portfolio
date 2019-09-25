@@ -7,9 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
-
 import Header from "./header"
-
 import "../resources/css/reset.css"
 import "../resources/css/flexboxgrid.css"
 import "../resources/css/style.css"
@@ -42,15 +40,6 @@ const Layout = ({title, children}) => {
           © {new Date().getFullYear()}, Built with {` `}
           <a href="https://www.gatsbyjs.org" target="_blank">Gatsby.</a>
         </footer>
-
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148723592-1"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-148723592-1');
-          </script>
     </div>
   )
 }

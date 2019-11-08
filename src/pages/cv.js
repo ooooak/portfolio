@@ -9,21 +9,9 @@ const CV = () => (
     <div className="experiences">
       <div className="experience">
         <div className="title">
-          <span className="role blue">Self Employed</span>
-          <br/>
-          <span className="date">Jan 2019 - Present</span>
-        </div>
-        <div className="description">
-            <p>Working on a rest API using Clojure</p>
-            <p>Crawling Web using Go, Gorm, goQuery</p>
-          </div>
-      </div>
-
-      <div className="experience">
-        <div className="title">
           <span className="role blue">Senior Full Stack Engineer - Bulbtech</span>
           <br/>
-          <span className="date">Nov 2017 – Jan 2019</span>
+          <span className="date">Nov 2017 – Present</span>
         </div>    
         <div className="description">
         <p>Work Primarily on SSR Frontend for MarketPlace using Nextjs/React</p>
